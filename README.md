@@ -63,6 +63,8 @@ https://www.kaggle.com/datasets/mustafabayar/europe-sales-records
 - **Data Providers**: Acknowledge the organizations that provided the data used in the dashboard.
 - **Microsoft Excel**: Thank Microsoft for developing the powerful Excel tool.
 
+![SQl Explore](https://github.com/Juneberd/Data-Analyst-BI-Portfolio/blob/main/SQL%20Data%20Exploration/WHO_AQ.png)
+
 # WHO Air Quality SQL Data Exploration
 
 This repository contains SQL scripts used to explore and analyze air quality data from the World Health Organization (WHO). The analyses focus on various air pollutants, their concentrations, and temporal coverage across different WHO regions and countries.
