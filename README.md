@@ -1,6 +1,5 @@
-![PowerBI Dashboard](https://github.com/Juneberd/Data-Analyst-BI-Portfolio/blob/main/PowerBI%20Project/PowerBI%20Dashboard.png)
-
 # Electric Car Population US Dashboard
+![PowerBI Dashboard](https://github.com/Juneberd/Data-Analyst-BI-Portfolio/blob/main/PowerBI%20Project/PowerBI%20Dashboard.png)
 
 This Power BI dashboard provides a comprehensive overview of the electric car population in the United States. It offers insights into key metrics such as:
 
@@ -29,11 +28,10 @@ https://www.kaggle.com/datasets/yashusinghal/electric-vehicle-population-dataset
 
 - **Data Providers**: Acknowledge the organizations that provided the data used in the dashboard.
 - **Power BI**: Thank Microsoft for developing the powerful Power BI tool.
-
-
-![Excel Dashboard](https://github.com/Juneberd/Data-Analyst-BI-Portfolio/blob/main/Excel%20Project/Excel%20Dashboard.png)
+<br>
 
 # Europe Sales Dashboard
+![Excel Dashboard](https://github.com/Juneberd/Data-Analyst-BI-Portfolio/blob/main/Excel%20Project/Excel%20Dashboard.png)
 
 This Excel-based dashboard provides a comprehensive overview of sales data for various product categories across different European countries. It offers insights into key metrics such as:
 
@@ -62,10 +60,11 @@ https://www.kaggle.com/datasets/mustafabayar/europe-sales-records
 
 - **Data Providers**: Acknowledge the organizations that provided the data used in the dashboard.
 - **Microsoft Excel**: Thank Microsoft for developing the powerful Excel tool.
+<br>
 
-![SQl Explore](https://github.com/Juneberd/Data-Analyst-BI-Portfolio/blob/main/SQL%20Data%20Exploration/WHO_AQ.png)
 
 # WHO Air Quality SQL Data Exploration
+![SQl Explore](https://github.com/Juneberd/Data-Analyst-BI-Portfolio/blob/main/SQL%20Data%20Exploration/WHO_AQ%20(2).png)
 
 This repository contains SQL scripts used to explore and analyze air quality data from the World Health Organization (WHO). The analyses focus on various air pollutants, their concentrations, and temporal coverage across different WHO regions and countries.
 
