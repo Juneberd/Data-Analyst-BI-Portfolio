@@ -1,5 +1,3 @@
 Portfolio
 
-![PowerBI Dashboard](Data-Analyst-BI-Portfolio/PowerBI Project
-/PowerBI Dashboard.png
-)
+![PowerBI Dashboard](PowerBI Project/PowerBI Dashboard.png)
